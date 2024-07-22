@@ -1,3 +1,5 @@
+ //PROGRAM RESTORAN SEDERHANA MENGGUNAKAN JAVA IDE ATAU ECLIPSE
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
