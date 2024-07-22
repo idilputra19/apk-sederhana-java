@@ -63,6 +63,7 @@ class Order {
     }
 }
 
+
 Kelas RestoranSederhanaGUI: Kelas utama yang mengatur logika aplikasi dan antarmuka pengguna.
 
 Frame Utama: Frame utama yang berisi panel-panel untuk login dan menu.
@@ -206,6 +207,8 @@ public class RestoranSederhanaGUI {
         });
     }
 }
+
+
 Cara Menggunakan Aplikasi
 Login: Buka aplikasi dan masukkan "admin" sebagai username dan password, kemudian klik tombol "Login".
 Melihat Menu dan Membuat Pesanan: Setelah login, pengguna dapat melihat daftar item menu. Klik tombol untuk item yang ingin dipesan, dan item tersebut akan ditambahkan ke pesanan.
