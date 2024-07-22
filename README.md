@@ -1,5 +1,7 @@
 # apk-sederhana-java
 
+Berikut adalah contoh program Java sederhana untuk memenuhi tugas pengganti UAS mata kuliah PBO 2. Program ini menampilkan data menu, menghitung total pesanan, dan memiliki beberapa fitur tambahan.
+
 Aplikasi restoran sederhana ini adalah sebuah program berbasis Java yang menggunakan antarmuka grafis (GUI) untuk mengelola pesanan di sebuah restoran. Aplikasi ini memiliki fitur login dan logout untuk mengamankan akses ke fungsi pemesanan. Berikut adalah penjelasan rinci tentang bagaimana aplikasi ini bekerja dan komponennya:
 
 1.Fitur Utama
@@ -60,6 +62,7 @@ class Order {
         System.out.println("Total Pesanan: Rp" + total);
     }
 }
+
 Kelas RestoranSederhanaGUI: Kelas utama yang mengatur logika aplikasi dan antarmuka pengguna.
 
 Frame Utama: Frame utama yang berisi panel-panel untuk login dan menu.
